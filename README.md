@@ -4,13 +4,29 @@
 Ich bin ein leidenschaftlicher Entwickler mit Erfahrung in Android- und iOS-App-Entwicklung sowie E-Commerce-Websites.  
 Ich habe unter anderem folgende Projekte umgesetzt:  
 
-- 📱 ## 📱 Cooking Recipes App  
-An Android app for food lovers with a PHP backend and MySQL database.  
-🛠️ Tech: Java | Android Studio | PHP | MySQL  
-![App Screenshot](https://your-image-link.com)  
-🔗 [View Repository](https://github.com/deinusername/cooking-recipes)
-- 📍 **CaféShop Finder** – iOS-App für die Café-Suche  
-- 🌸 **[Flower Shop E-Commerce](https://github.com/deinusername/flower-shop)** – OpenCart-Website für einen Floristen  
+## 📌 Projekte  
+
+### 📱 Cooking Recipes App  
+Eine Android-App mit einer umfangreichen Sammlung von Kochrezepten, unterstützt durch ein PHP-Backend und eine MySQL-Datenbank.  
+🛠️ **Technologien:** Java | Android Studio | PHP | MySQL  
+![Cooking Recipes App](https://your-image-link.com)  
+🔗 **[Repository ansehen](https://github.com/deinusername/cooking-recipes)**  
+
+---
+
+### 📍 CaféShop Finder  
+Eine iOS-App, die Nutzern hilft, nahegelegene Cafés zu finden, mit Standortbestimmung und Benutzerbewertungen.  
+🛠️ **Technologien:** Swift | Xcode | MapKit  
+![CaféShop Finder](https://your-image-link.com)  
+🔗 **Nicht veröffentlicht (Freelance-Projekt)**  
+
+---
+
+### 🌸 Flower Shop E-Commerce  
+Ein E-Commerce-Webshop für einen Floristen, basierend auf OpenCart mit einem benutzerfreundlichen Bestellsystem.  
+🛠️ **Technologien:** PHP | MySQL | OpenCart  
+![Flower Shop](https://your-image-link.com)  
+🔗 **[Repository ansehen](https://github.com/deinusername/flower-shop)**  
 
 ## 🚀 Technologien  
 - Android (Java, Android Studio)  
