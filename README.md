@@ -19,3 +19,6 @@ Ich habe unter anderem folgende Projekte umgesetzt:
 ## 📫 Kontakt  
 - 📧 [E-Mail](mailto:Abdulrahmanalerbini@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahman-hamza-alerbini-a5a458162/)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanalerbini&layout=compact&theme=radical)
+![Visitors](https://komarev.com/ghpvc/?username=abdulrahmanalerbini&label=Profile%20Views&color=blue&style=plastic)
