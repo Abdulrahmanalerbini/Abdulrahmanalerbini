@@ -17,5 +17,5 @@ Ich habe unter anderem folgende Projekte umgesetzt:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahmanalerbini&show_icons=true&theme=radical)  
 
 ## 📫 Kontakt  
-- 📧 [E-Mail](mailto:deine@email.com)  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/deinprofil/)  
+- 📧 [E-Mail](mailto:Abdulrahmanalerbini@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahman-hamza-alerbini-a5a458162/)  
