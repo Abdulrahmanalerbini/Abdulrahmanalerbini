@@ -4,7 +4,11 @@
 Ich bin ein leidenschaftlicher Entwickler mit Erfahrung in Android- und iOS-App-Entwicklung sowie E-Commerce-Websites.  
 Ich habe unter anderem folgende Projekte umgesetzt:  
 
-- 📱 **[Cooking Recipes App](https://github.com/deinusername/cooking-recipes)** – Android-App mit PHP-Backend  
+- 📱 ## 📱 Cooking Recipes App  
+An Android app for food lovers with a PHP backend and MySQL database.  
+🛠️ Tech: Java | Android Studio | PHP | MySQL  
+![App Screenshot](https://your-image-link.com)  
+🔗 [View Repository](https://github.com/deinusername/cooking-recipes)
 - 📍 **CaféShop Finder** – iOS-App für die Café-Suche  
 - 🌸 **[Flower Shop E-Commerce](https://github.com/deinusername/flower-shop)** – OpenCart-Website für einen Floristen  
 
