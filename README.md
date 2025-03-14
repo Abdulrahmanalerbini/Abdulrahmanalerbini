@@ -13,8 +13,7 @@ Ich habe unter anderem folgende Projekte umgesetzt:
 - iOS (Swift, Xcode)  
 - PHP, MySQL, OpenCart
   
- ![Top Langs]
-(https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanalerbini&layout=compact&theme=radical)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanalerbini&layout=compact&theme=radical)
 
 
 ## 📫 Kontakt  
