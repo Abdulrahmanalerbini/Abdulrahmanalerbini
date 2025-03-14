@@ -14,12 +14,12 @@ Ich habe unter anderem folgende Projekte umgesetzt:
 - PHP, MySQL, OpenCart
 - ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahmanalerbini&layout=compact&theme=radical)
 
-## 📊 GitHub-Statistiken  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahmanalerbini&show_icons=true&theme=radical)  
 
 ## 📫 Kontakt  
 - 📧 [E-Mail](mailto:Abdulrahmanalerbini@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abdulrahman-hamza-alerbini-a5a458162/)  
 
-(https://komarev.com/ghpvc/?username=abdulrahmanalerbini&label=Profile%20Views&color=blue&style=plastic)
+
+## 📊 GitHub-Statistiken  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahmanalerbini&show_icons=true&theme=radical)  
 ![Visitors]
