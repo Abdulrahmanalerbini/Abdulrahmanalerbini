@@ -23,4 +23,5 @@ Ich habe unter anderem folgende Projekte umgesetzt:
 
 ## 📊 GitHub-Statistiken  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahmanalerbini&show_icons=true&theme=radical)  
-![Visitors]
+![Visitors]![Visitors](https://komarev.com/ghpvc/?username=deinusername&label=Profile%20Views&color=blue&style=plastic)
+
