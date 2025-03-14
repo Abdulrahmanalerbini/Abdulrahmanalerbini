@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hallo, ich bin Abdulrahman Hamza Alerbini  
 
-<!--
-**Abdulrahmanalerbini/Abdulrahmanalerbini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Über mich  
+Ich bin ein leidenschaftlicher Entwickler mit Erfahrung in Android- und iOS-App-Entwicklung sowie E-Commerce-Websites.  
+Ich habe unter anderem folgende Projekte umgesetzt:  
 
-Here are some ideas to get you started:
+- 📱 **[Cooking Recipes App](https://github.com/deinusername/cooking-recipes)** – Android-App mit PHP-Backend  
+- 📍 **CaféShop Finder** – iOS-App für die Café-Suche  
+- 🌸 **[Flower Shop E-Commerce](https://github.com/deinusername/flower-shop)** – OpenCart-Website für einen Floristen  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologien  
+- Android (Java, Android Studio)  
+- iOS (Swift, Xcode)  
+- PHP, MySQL, OpenCart  
+
+## 📊 GitHub-Statistiken  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahmanalerbini&show_icons=true&theme=radical)  
+
+## 📫 Kontakt  
+- 📧 [E-Mail](mailto:deine@email.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/deinprofil/)  
